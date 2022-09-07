@@ -1,4 +1,4 @@
-var slide = new Array("/assets/images/imge1.jpg","/assets/images/imge2.jpg","/assets/images/imge3.jpg");
+var slide = new Array("imge1.jpg","imge2.jpg","imge3.jpg");
 var suivant = 0;
 
 function ChangeImg(a) {
